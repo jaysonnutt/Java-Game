@@ -1,10 +1,13 @@
 
-<h1>Java-Game</h1>
+<h1><u>Java Game</u></h1>
 My first game written in Java.
 
-<h2>Instructions</h2>
-<br>Spacebar to fire.</br><br>
-Arrow keys to move.
+<h2><u>Instructions</u></h2>
+
+Key|Action
+---|------
+Spacebar|Shoot
+Arrow Keys|Move
 
 <h2><u>Notes</u></h2>
 <br>I only implemented 8 levels, but it's easy to add more.</br><br>
